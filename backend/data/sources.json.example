@@ -1,0 +1,58 @@
+[
+  {
+    "document_id": "DOC001",
+    "title": "SOT Student Handbook 2025-26",
+    "filename": "SOT_Student_Handbook_2025_26.pdf",
+    "academic_year": "2025-26",
+    "url": "local://SOT_Student_Handbook_2025_26.pdf"
+  },
+  {
+    "document_id": "DOC002",
+    "title": "KIIT SCE Student Handbook 2024-25",
+    "filename": "KIIT-SCE-Student-Handbook-2024-25.pdf",
+    "academic_year": "2024-25",
+    "url": "local://KIIT-SCE-Student-Handbook-2024-25.pdf"
+  },
+  {
+    "document_id": "DOC003",
+    "title": "Student Code of Conduct",
+    "filename": "Student-Code-of-Conduct.pdf",
+    "academic_year": "2025-26",
+    "url": "local://Student-Code-of-Conduct.pdf"
+  },
+  {
+    "document_id": "DOC004",
+    "title": "Examination Handbook",
+    "filename": "Examination-Handbook.pdf",
+    "academic_year": "2025-26",
+    "url": "local://Examination-Handbook.pdf"
+  },
+  {
+    "document_id": "DOC005",
+    "title": "Academic Calendar",
+    "filename": "Academic-Calendar.pdf",
+    "academic_year": "2026-27",
+    "url": "local://Academic-Calendar.pdf"
+  },
+  {
+    "document_id": "DOC006",
+    "title": "KIIT-ICC-Booklet-2025",
+    "filename": "KIIT-ICC-Booklet-2025.pdf",
+    "academic_year": "2025-26",
+    "url": "local://KIIT-ICC-Booklet-2025.pdf"
+  },
+  {
+    "document_id": "DOC007",
+    "title": "KIIT Anti-Ragging Committee Notice",
+    "filename": "KIIT-Anti-Ragging-Committee.pdf",
+    "academic_year": "2021-22",
+    "url": "local://KIIT-Anti-Ragging-Committee.pdf"
+  },
+  {
+    "document_id": "DOC008",
+    "title": "BTech Syllabus 2026-27",
+    "filename": "BTech-Syllabus-2026-27.pdf",
+    "academic_year": "2026-27",
+    "url": "local://BTech-Syllabus-2026-27.pdf"
+  }
+]

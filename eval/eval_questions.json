@@ -1,0 +1,72 @@
+[
+  {
+    "question_id": "Q001",
+    "question": "Can I improve my CGPA?",
+    "category": "regulation",
+    "expected_behavior": "answer",
+    "answer_criteria": ["mentions subjects registration for grade improvement", "mentions max 3 theory subjects", "cites R.13"]
+  },
+  {
+    "question_id": "Q002",
+    "question": "What CGPA do I need to be eligible for a B.Tech Honours?",
+    "category": "regulation",
+    "expected_behavior": "answer",
+    "answer_criteria": ["mentions minimum CGPA of 8.0", "cites R.4.3"]
+  },
+  {
+    "question_id": "Q003",
+    "question": "How many total credits are required for a plain B.Tech degree?",
+    "category": "factual",
+    "expected_behavior": "answer",
+    "answer_criteria": ["mentions 155 credits"]
+  },
+  {
+    "question_id": "Q004",
+    "question": "What is the minimum attendance percentage to sit an end-semester exam?",
+    "category": "regulation",
+    "expected_behavior": "answer",
+    "answer_criteria": ["mentions 75%", "cites R.7.3"]
+  },
+  {
+    "question_id": "Q005",
+    "question": "Is KIIT a smoking and alcohol free campus?",
+    "category": "factual",
+    "expected_behavior": "answer",
+    "answer_criteria": ["confirms smoking/alcohol free campus policy"]
+  },
+  {
+    "question_id": "Q006",
+    "question": "What is the maximum fine for hostel privilege violations?",
+    "category": "regulation",
+    "expected_behavior": "answer",
+    "answer_criteria": ["mentions Rs. 10,000"]
+  },
+  {
+    "question_id": "Q007",
+    "question": "How many registered semesters am I allowed before I must complete my B.Tech degree?",
+    "category": "regulation",
+    "expected_behavior": "answer",
+    "answer_criteria": ["mentions twelve (12) registered semesters", "cites R.18.2"]
+  },
+  {
+    "question_id": "Q008",
+    "question": "How do I file a sexual harassment complaint at KIIT?",
+    "category": "procedure",
+    "expected_behavior": "answer",
+    "answer_criteria": ["mentions ICC", "mentions written complaint within three months"]
+  },
+  {
+    "question_id": "Q009",
+    "question": "What is my SGPA if I scored 8 grade points in a 4-credit course and 7 grade points in a 3-credit course?",
+    "category": "calculation",
+    "expected_behavior": "deterministic_calculation",
+    "answer_criteria": ["SGPA equals 7.57", "not answered by the LLM"]
+  },
+  {
+    "question_id": "Q010",
+    "question": "Who is the President of the United States?",
+    "category": "unanswerable",
+    "expected_behavior": "cannot_verify",
+    "answer_criteria": ["status is cannot_verify", "confidence is 0.0", "no invented citation"]
+  }
+]
