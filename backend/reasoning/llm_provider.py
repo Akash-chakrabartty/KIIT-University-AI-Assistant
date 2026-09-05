@@ -1,4 +1,4 @@
-"""Member 2 responsibility: swappable LLM provider (adapter pattern).
+"""Project responsibility: swappable LLM provider (adapter pattern).
 pipeline.py only ever calls .generate(prompt) -- never touches Gemini
 (or any other provider's) SDK directly."""
 

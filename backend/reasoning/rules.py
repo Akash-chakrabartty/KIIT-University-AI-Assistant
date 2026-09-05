@@ -1,4 +1,4 @@
-"""Member 2 responsibility: deterministic calculations. The LLM never
+"""Project responsibility: deterministic calculations. The LLM never
 performs these computations -- it only ever reports a number this module
 computed."""
 

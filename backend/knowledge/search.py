@@ -1,4 +1,4 @@
-"""Member 1 responsibility: embeddings + semantic search."""
+"""Project responsibility: embeddings + semantic search."""
 import numpy as np
 
 _model = None

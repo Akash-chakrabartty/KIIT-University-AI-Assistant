@@ -1,4 +1,4 @@
-"""Member 2 responsibility: retrieved evidence -> grounded, verified answer."""
+"""Project responsibility: retrieved evidence -> grounded, verified answer."""
 
 from reasoning.schemas import AnswerResponse, Citation, new_message_id
 from reasoning.rules import calculate_sgpa, check_eligibility

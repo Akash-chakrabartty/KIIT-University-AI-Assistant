@@ -1,4 +1,4 @@
-"""Member 1 responsibility: document ingestion, extraction, chunking."""
+"""Project responsibility: document ingestion, extraction, chunking."""
 import re
 import fitz  # PyMuPDF
 import requests

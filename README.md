@@ -1,12 +1,12 @@
-# KIIT University AI Assistant — Member 1 + Member 2
+# KIIT University AI Assistant — Project Implementation
 
 Grounded RAG assistant for KIIT University information. This repo implements
-**Member 1 (Knowledge module: ingestion, chunking, embeddings, search)** and
-**Member 2 (Reasoning module: RAG pipeline, citation verification, rules,
+**Project (Knowledge module: ingestion, chunking, embeddings, search)** and
+**Project (Reasoning module: RAG pipeline, citation verification, rules,
 web API)**, wired together end-to-end.
 
 > **Note on the Member split:** the teacher's project guide (as provided)
-> does not itself define a "Member 1 / Member 2" division — it describes one
+> does not itself define a "Project Implementation" division — it describes one
 > unified backend with three modules (`knowledge/`, `reasoning/`, `web/`).
 > The split above follows that module boundary. If your actual assignment
 > sheet defines a different split, this code can be relabeled without
