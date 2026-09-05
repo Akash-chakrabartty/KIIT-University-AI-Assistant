@@ -1,5 +1,14 @@
 # KIIT University AI Assistant — Project Implementation
 
+
+<img width="1917" height="1015" alt="image" src="https://github.com/user-attachments/assets/3765c2ee-a170-42f5-b1a9-b8014d606378" />
+
+
+<img width="1914" height="1014" alt="image" src="https://github.com/user-attachments/assets/36dc4702-6781-4031-a321-e92acfcae5bb" />
+
+
+
+
 Grounded RAG assistant for KIIT University information. This repo implements
 **Project (Knowledge module: ingestion, chunking, embeddings, search)** and
 **Project (Reasoning module: RAG pipeline, citation verification, rules,
