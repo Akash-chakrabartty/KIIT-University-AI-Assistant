@@ -14,12 +14,7 @@ Grounded RAG assistant for KIIT University information. This repo implements
 **Project (Reasoning module: RAG pipeline, citation verification, rules,
 web API)**, wired together end-to-end.
 
-> **Note on the Member split:** the teacher's project guide (as provided)
-> does not itself define a "Project Implementation" division — it describes one
-> unified backend with three modules (`knowledge/`, `reasoning/`, `web/`).
-> The split above follows that module boundary. If your actual assignment
-> sheet defines a different split, this code can be relabeled without
-> restructuring — the module boundaries stay the same either way.
+
 
 ## 1. Requirements
 - Python 3.11+
